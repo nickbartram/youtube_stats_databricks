@@ -1,0 +1,4 @@
+# Data files (do not commit datasets)
+*.csv
+*.json
+Resources/

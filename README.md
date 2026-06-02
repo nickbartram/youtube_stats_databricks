@@ -76,9 +76,12 @@ The Gold dataset was used to explore four questions about YouTube engagement beh
 
 ### Do smaller videos have higher engagement rates than viral videos?
 ![Engagement Rate v. Log Views Scatter Plot](/Images/engagement_views_scatter.png)
+Smaller videos show higher and more variable engagement rates, while viral videos (10M+ views) 
+cluster near zero. This suggests niche audiences interact more intensely than mass audiences.
 
 ### Which categories generate the most engagement per view?
 ![Engagement Rate By Category](/Images/engagement_by_category.png)
+
 
 ### Are comments more sensitive to virality than likes?
 ![Like Rate v. Comment Rate](/Images/like_comment_rate.png)

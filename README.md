@@ -76,18 +76,24 @@ The Gold dataset was used to explore four questions about YouTube engagement beh
 
 ### Do smaller videos have higher engagement rates than viral videos?
 ![Engagement Rate v. Log Views Scatter Plot](/Images/engagement_views_scatter.png)
+
 Smaller videos show higher and more variable engagement rates, while viral videos (10M+ views) 
 cluster near zero. This suggests niche audiences interact more intensely than mass audiences.
 
 ### Which categories generate the most engagement per view?
 ![Engagement Rate By Category](/Images/engagement_by_category.png)
 
+Categories related to education, technology, gaming, and instructional content exhibited the highest average engagement rates. The results suggest that audience interaction varies considerably across content categories, although additional analysis would be required to determine the specific factors driving these differences.
 
 ### Are comments more sensitive to virality than likes?
 ![Like Rate v. Comment Rate](/Images/like_comment_rate.png)
 
+To investigate whether comments are more sensitive to virality than likes, average like and comment rates were compared across view tiers. While comment rates remained consistently lower than like rates, both metrics exhibited a similar gradual decline as view counts increased. This suggests that comments do not appear substantially more sensitive to virality than likes within the trending videos analyzed.
+
 ### Do engagement patterns differ across countries?
 ![Engagement By Region](/Images/engagement_rate_region_heatmap.png)
+
+Engagement metrics varied across regions, with countries such as Russia exhibiting higher engagement rates than India and several other regions. While the absolute differences remained relatively small (approximately 1-5% engagement), the variation was consistent enough to suggest that audience interaction patterns differ across geographic markets.
 
 ---
 

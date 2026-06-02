@@ -75,16 +75,16 @@ The Gold table is a **flat analytical schema** — denormalized by design for Sp
 The Gold dataset was used to explore four questions about YouTube engagement behavior.
 
 ### Do smaller videos have higher engagement rates than viral videos?
-![Engagement Rate v. Log Views Scatter Plot](/Workspace/Users/nickbartram25@gmail.com/youtube_stats_databricks/Images/engagement_views_scatter.png)
+![Engagement Rate v. Log Views Scatter Plot](/Images/engagement_views_scatter.png)
 
 ### Which categories generate the most engagement per view?
-![Engagement Rate By Category](/Workspace/Users/nickbartram25@gmail.com/youtube_stats_databricks/Images/engagement_by_category.png)
+![Engagement Rate By Category](/Images/engagement_by_category.png)
 
 ### Are comments more sensitive to virality than likes?
-![Like Rate v. Comment Rate](/Workspace/Users/nickbartram25@gmail.com/youtube_stats_databricks/Images/like_comment_rate.png)
+![Like Rate v. Comment Rate](/Images/like_comment_rate.png)
 
 ### Do engagement patterns differ across countries?
-![Engagement By Region](/Workspace/Users/nickbartram25@gmail.com/youtube_stats_databricks/Images/engagement_rate_region_heatmap.png)
+![Engagement By Region](/Images/engagement_rate_region_heatmap.png)
 
 ---
 

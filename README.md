@@ -12,9 +12,9 @@ A Medallion-style pipeline progressing through three layers:
 
 ```mermaid
 graph TD
-    A[Raw CSVs + JSON] --> B[BronzeIngestion & Validation]
-    B --> C[SilverCleaning & Deduplication]
-    C --> D[GoldEnrichment & Metrics]
+    A[Raw CSVs + JSON] --> B[Bronze: Ingestion & Validation]
+    B --> C[Silver: Cleaning & Deduplication]
+    C --> D[Gold: Enrichment & Metrics]
     D --> E[(youtube_gold)]
 ```
 

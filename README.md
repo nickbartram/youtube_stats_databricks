@@ -1,4 +1,4 @@
-# YouTube Trending Videos — ETL Pipeline
+# YouTube Trending Videos | ETL Pipeline
 
 An end-to-end PySpark ETL pipeline built in Databricks that ingests, validates, and transforms a multi-region YouTube trending dataset into an analytics-ready Gold table enriched with engagement metrics.
 

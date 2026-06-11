@@ -64,9 +64,9 @@ The pipeline is implemented as a set of modular, reusable functions across four 
 
 ## Data Model
 
-The Gold table is a **flat analytical schema** — denormalized by design for Spark-based analysis. One row per video per region (deduplicated to final trending snapshot).
+The Gold table is a **flat analytical schema**: denormalized by design for Spark-based analysis. One row per video per region (deduplicated to final trending snapshot).
 
-**19 columns** — identifiers, video metadata, raw engagement counts, status flags, engineered features, and region/country labels.
+**19 columns**: identifiers, video metadata, raw engagement counts, status flags, engineered features, and region/country labels.
 
 ---
 
